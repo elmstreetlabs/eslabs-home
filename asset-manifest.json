@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/eslabs-home/static/css/main.65507875.css",
+    "main.css": "/eslabs-home/static/css/main.774eddef.css",
     "main.js": "/eslabs-home/static/js/main.98eb626c.js",
     "index.html": "/eslabs-home/index.html",
-    "main.65507875.css.map": "/eslabs-home/static/css/main.65507875.css.map",
+    "main.774eddef.css.map": "/eslabs-home/static/css/main.774eddef.css.map",
     "main.98eb626c.js.map": "/eslabs-home/static/js/main.98eb626c.js.map"
   },
   "entrypoints": [
-    "static/css/main.65507875.css",
+    "static/css/main.774eddef.css",
     "static/js/main.98eb626c.js"
   ]
 }
